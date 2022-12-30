@@ -1,6 +1,6 @@
 {
   "importMap": "import_map.json",
   "tasks": {
-    "dev": "deno run --allow-all --node-modules-dir vite"
+    "dev": "deno run --allow-all --node-modules-dir npm:vite"
   }
 }
